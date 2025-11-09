@@ -1,0 +1,17 @@
+{
+  "name": "queuectl-node",
+  "version": "1.0.0",
+  "main": "src/cli.js",
+  "bin": {
+    "queuectl": "./src/cli.js"
+  },
+  "scripts": {
+    "start-workers": "node src/workerManager.js start --count 1",
+    "stop-workers": "node src/workerManager.js stop"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "mongodb": "^5.9.0",
+    "dotenv": "^16.0.0"
+  }
+}
