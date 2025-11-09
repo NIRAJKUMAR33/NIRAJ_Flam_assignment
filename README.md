@@ -196,7 +196,8 @@ Testing Checklist
 
 ## Author
 
-Balaram Dey
+Niraj Kumar
 M.Tech (CSE) @ NIT Jamshedpur
-deybalaram25@gmail.com
-7479323429
+nirajnk1516@gmail.com
+8651587979
+
